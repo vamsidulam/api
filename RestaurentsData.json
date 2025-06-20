@@ -1,0 +1,1243 @@
+[
+    {
+        "id":0,
+        "name":"Pizza House",
+        "img":"/../amazonpagepics/fooditems/pizza.jpeg",
+        "pic":"/amazonpagepics/rating-35.png",
+        "rating":49,
+        "categories":[
+            {
+                "catergory":"🍕 Pizzas",
+                "items":[
+                    {
+                        "item_name":"Margherita Pizza",
+                        "item_cost":120,
+                        "item_desc":"Classic pizza with tomato sauce and mozzarella cheese.",
+                        "item_img":"/amazonpagepics/fooditems/marpizza.jpeg"
+                    },
+                    {
+                        "item_name":"Farmhouse Pizza",
+                        "item_cost": 160,
+                        "item_desc":"Loaded with capsicum, onion, tomato, corn & cheese.",
+                        "item_img":"/amazonpagepics/fooditems/farmhousepizza.webp"
+                    },
+                    {
+                        "item_name":"Paneer Tikka Pizza",
+                        "item_cost": 180,
+                        "item_desc":"Spicy paneer chunks on cheesy pizza base.",
+                        "item_img":"/amazonpagepics/fooditems/paneertikapizza.webp"
+                    },
+                    {
+                        "item_name":"Chicken BBQ Pizza",
+                        "item_cost": 200,
+                        "item_desc":"Grilled chicken with BBQ sauce and onion topping.",
+                        "item_img":"/amazonpagepics/fooditems/chickenbbqpizza.jpg"
+                    },
+                    {
+                        "item_name":"Pepperoni Pizza",
+                        "item_cost": 220,
+                        "item_desc":"Thin crust pizza topped with spicy pepperoni.",
+                        "item_img":"/amazonpagepics/fooditems/peppizza.jpg"
+                    },
+                    {
+                        "item_name":"Veggie Delight Pizza",
+                        "item_cost": 150,
+                        "item_desc":"Assorted veggies on a cheesy tomato base.",
+                        "item_img":"/amazonpagepics/fooditems/vegdelightpizza.jpeg"
+                    },
+                    {
+                        "item_name":"Mushroom Pizza",
+                        "item_cost": 170,
+                        "item_desc":"Fresh mushrooms, olives & oregano on cheese base.",
+                        "item_img":"/amazonpagepics/fooditems/mushroompizza.jpg"
+                    },
+                    {
+                        "item_name":"Cheese Burst Pizza",
+                        "item_cost": 190,
+                        "item_desc":"Extra cheese-filled crust for ultimate cheese lovers.",
+                        "item_img":"/amazonpagepics/fooditems/cheesepizza.jpeg"
+                    }
+                ]
+            },
+            {
+                "catergory":"🥪 Sandwiches",
+                "items":[
+                    {
+                        "item_name":"Veg Sandwich",
+                        "item_cost": 40,
+                        "item_desc":"Fresh cucumber, tomato, onion, and mint chutney.",
+                        "item_img":"/amazonpagepics/fooditems/vegsandwich.jpg"
+                    },
+                    {
+                        "item_name":"Grilled Cheese Sandwich",
+                        "item_cost": 60,
+                        "item_desc":"Bread grilled with butter and melted cheese inside.",
+                        "item_img":"/amazonpagepics/fooditems/grilledcheesesandwich.jpg"
+                    },
+                    {
+                        "item_name":"Paneer sandwich",
+                        "item_cost": 70,
+                        "item_desc":"Spicy paneer cubes with green chutney in grilled bread.",
+                        "item_img":"/amazonpagepics/fooditems/paneersanwich.jpg"
+                    },
+                    {
+                        "item_name":"chicken Sandwich",
+                        "item_cost": 90,
+                        "item_desc":"Chicken pieces mixed with mayo and pepper in toasted bread.",
+                        "item_img":"/amazonpagepics/fooditems/chickensandwich.jpg"
+                    },
+                    {
+                        "item_name":"Club Sandwich",
+                        "item_cost": 100,
+                        "item_desc":"Triple layer sandwich with chicken, egg, lettuce & cheese.",
+                        "item_img":"/amazonpagepics/fooditems/clubsandwich.jpeg"
+                    }
+
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":1,
+        "name":"Vijaya's Restaurent",
+        "img":"/../amazonpagepics/fooditems/biryani.jpeg",
+        "pic":"/amazonpagepics/rating-35.png",
+        "rating":49,
+        "categories":[
+            {
+                "catergory":"Rice Items",
+                "items":[
+                    {
+                        "item_name":"Fried Rice SP",
+                        "item_cost":220,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/adarsh-pg-HhOhVlrIhfI-unsplash.jpg"
+                    },
+                    {
+                        "item_name":"Mutton Biryani",
+                        "item_cost": 270,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/14b87888-3c82-4fd0-becb-2447aea91db9.jpg"
+                    },
+                    {
+                        "item_name":"Chicken fry piece biryani",
+                        "item_cost": 250,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/suchandra-varma-vJ-bJAKTWek-unsplash.jpg"
+                    },
+                    {
+                        "item_name":"kotha item nak koda teledhu",
+                        "item_cost": 150,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/soup-topped-with-pepper-herbs.jpg"
+                    }
+                ]
+            },
+            {
+                "catergory":"tiffins",
+                "items":[
+                    {
+                        "item_name":"idly",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/frozen-homemade-round-cutlets.jpg"
+                    },
+                    {
+                        "item_name":"Samosa",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/0fe6975b-1fe3-4235-a961-74d087de05ba.jpg"
+                    },
+                    {
+                        "item_name":"Chapathi",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/traditional-azerbaijani-meat-gutab-minced-meat-stuffed-flatbread-served-with-sumac.jpg"
+                    },
+                    {
+                        "item_name":"Baji",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/homemade-fried-potatoes-wooden-table.jpg"
+                    },
+                    {
+                        "item_name":"onion samosa",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/deep-fried-samosas-rustic-wooden-plate-generated-by-ai.jpg"
+                    },
+                    {
+                        "item_name":"corn dosa",
+                        "item_cost": 70,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/delicious-indian-dosa-composition.jpg"
+                    }
+
+                ]
+            },
+           {
+                "catergory":"Juices",
+                "items":[
+                    {
+                        "item_name":"Mango Juice",
+                        "item_cost": 60,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rosita-eka-sukmawati-127257819-10047619.jpg"
+                    },
+                    {
+                        "item_name":"Watermelon Juice",
+                        "item_cost": 60,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337825.jpg"
+                    },
+                    {
+                        "item_name":"Oreo Milk Shake",
+                        "item_cost": 120,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-alisha-mishra-579430-1346347.jpg"
+                    },
+                    {
+                        "item_name":"Carn Berry Shake",
+                        "item_cost": 120,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-asphotograpy-103566.jpg"
+                    },
+                    {
+                        "item_name":"Double Chocolate Milk Shake",
+                        "item_cost": 130,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rdne-6413582.jpg"
+                    },
+                    {
+                        "item_name":"Badham Paal",
+                        "item_cost": 70,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337824.jpg"
+                    }
+
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":2,
+        "name":"Mandhi House",
+        "img":"/../amazonpagepics/fooditems/mandi.avif",
+        "pic":"/amazonpagepics/rating-35.png",
+        "rating":49,
+        "categories":[
+            {
+                "catergory":"🍗  Mandi (Mandhi)",
+                "items":[
+                    {
+                        "item_name":"Chicken Mandi",
+                        "item_cost": 280,
+                        "item_desc":"Traditional Yemeni rice dish with aromatic basmati rice and slow-cooked juicy chicken leg piece.",
+                        "item_img":"/amazonpagepics/fooditems/chickenmandi.jpg"
+                    },
+                    {
+                        "item_name":"Mutton Mandi",
+                        "item_cost": 350,
+                        "item_desc":"Tender mutton cooked with Arabic spices and layered over saffron mandi rice.",
+                        "item_img":"/amazonpagepics/fooditems/muttonmandhi.jpg"
+                    },
+                    {
+                        "item_name":"Fish Mandi",
+                        "item_cost": 320,
+                        "item_desc":"Mildly spiced grilled fish served on long grain mandi rice, perfect for seafood lovers.",
+                        "item_img":"/amazonpagepics/fooditems/fishmandi.jpg"
+                    },
+                    {
+                        "item_name":"Prawns Mandi",
+                        "item_cost": 330,
+                        "item_desc":"Spicy and flavorful prawns cooked with Arabic herbs served with mandi rice.",
+                        "item_img":"/amazonpagepics/fooditems/prawnsmandi.jpg"
+                    },
+                    {
+                        "item_name":"Grilled chicken Mandi",
+                        "item_cost": 300,
+                        "item_desc":"Charcoal-grilled whole chicken on top of aromatic rice, served with garlic sauce and salad.",
+                        "item_img":"/amazonpagepics/fooditems/grilledchickenmandi.webp"
+                    },
+                    {
+                        "item_name":"Fried Chicken Mandi",
+                        "item_cost": 290,
+                        "item_desc":"Crispy deep-fried chicken pieces paired with traditional mandi rice and chutney.",
+                        "item_img":"/amazonpagepics/fooditems/friedchickenmandi.jpg"
+                    },
+                    {
+                        "item_name":"Paneer Mandi",
+                        "item_cost": 240,
+                        "item_desc":"Cubes of paneer marinated in Arabic masala and grilled, served with veg mandi rice.",
+                        "item_img":"/amazonpagepics/fooditems/paneermandi.jpeg"
+                    },
+                    {
+                        "item_name":"Veg Mandi",
+                        "item_cost": 220,
+                        "item_desc":"A vegetarian version of the Arabic favorite, made with spiced vegetables and flavoured rice.",
+                        "item_img":"/amazonpagepics/fooditems/vegmandi.jpeg"
+                    },
+                    {
+                        "item_name":"Full Chicken Mandi",
+                        "item_cost": 500,
+                        "item_desc":"Whole tandoori/grilled chicken placed over large portion of mandi rice — ideal for sharing.",
+                        "item_img":"/amazonpagepics/fooditems/fullchickenmandi.webp"
+                    },
+                    {
+                        "item_name":"Family Mandi Pack (4p)",
+                        "item_cost": 999,
+                        "item_desc":"A grand platter of rice served with chicken, mutton, fish and prawns — served with chutneys and salad.",
+                        "item_img":"/amazonpagepics/fooditems/familymandi.jpeg"
+                    }
+                ]
+            },
+           {
+                "catergory":"Juices",
+                "items":[
+                    {
+                        "item_name":"orange juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rosita-eka-sukmawati-127257819-10047619.jpg"
+                    },
+                    {
+                        "item_name":"mango juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337825.jpg"
+                    },
+                    {
+                        "item_name":"sugar cane juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-alisha-mishra-579430-1346347.jpg"
+                    },
+                    {
+                        "item_name":"dry fruits juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-asphotograpy-103566.jpg"
+                    },
+                    {
+                        "item_name":"orea milkshake",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rdne-6413582.jpg"
+                    },
+                    {
+                        "item_name":"badham paal",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337824.jpg"
+                    }
+
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":3,
+        "name":"Bhimma's kitchen",
+        "img":"/../amazonpagepics/fooditems/juice.jpeg",
+        "pic":"/amazonpagepics/rating-45.png",
+        "rating":349,
+        "categories":[
+            {
+                "catergory":"🍔 Fast Food Items (Indian + Indo-Chinese)",
+                "items":[
+                    {
+                        "item_name":"Chicken Shawarma",
+                        "item_cost": 100,
+                        "item_desc":"Lebanese-style chicken wrap with garlic mayo.",
+                        "item_img":"/amazonpagepics/fooditems/chickenswarma.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Manchurian",
+                        "item_cost": 110,
+                        "item_desc":"Boneless chicken cubes in tangy soy garlic sauce.",
+                        "item_img":"/amazonpagepics/fooditems/chickenmanchurain.jpg"
+                    },
+                    {
+                        "item_name":"Veg Noodles",
+                        "item_cost": 80,
+                        "item_desc":"Stir-fried noodles with mixed vegetables and sauces.",
+                        "item_img":"/amazonpagepics/fooditems/vegnoodles.jpeg"
+                    },
+                    {
+                        "item_name":"Egg Noodles",
+                        "item_cost": 90,
+                        "item_desc":"Chinese noodles tossed with scrambled egg.",
+                        "item_img":"/amazonpagepics/fooditems/eggnoodles.jpeg"
+                    },
+                    {
+                        "item_name":"Chicken Noodles",
+                        "item_cost": 100,
+                        "item_desc":"Noodles sautéed with chicken and veggies.",
+                        "item_img":"/amazonpagepics/fooditems/chickennoodles.jpg"
+                    }
+                ]
+            },
+           {
+                "catergory":"Juices",
+                "items":[
+                    {
+                        "item_name":"orange juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rosita-eka-sukmawati-127257819-10047619.jpg"
+                    },
+                    {
+                        "item_name":"mango juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337825.jpg"
+                    },
+                    {
+                        "item_name":"sugar cane juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-alisha-mishra-579430-1346347.jpg"
+                    },
+                    {
+                        "item_name":"dry fruits juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-asphotograpy-103566.jpg"
+                    },
+                    {
+                        "item_name":"orea milkshake",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rdne-6413582.jpg"
+                    },
+                    {
+                        "item_name":"badham paal",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337824.jpg"
+                    }
+
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":4,
+        "name":"Srinivas Juices Snacks",
+        "img":"/../amazonpagepics/fooditems/hotspot.jpg",
+        "pic":"/amazonpagepics/rating-35.png",
+        "rating":949,
+        "categories":[
+           {
+                "catergory":"Puffs/Rolls/Snacks",
+                "items":[
+                    {
+                        "item_name":"Paneer Puff",
+                        "item_cost": 50,
+                        "item_desc":"Flaky pastry stuffed with spicy paneer masala, baked to golden crisp.",
+                        "item_img":"/amazonpagepics/fooditems/paneerpuff.jpeg"
+                    },
+                    {
+                        "item_name":"Veg Puff",
+                        "item_cost": 20,
+                        "item_desc":"Classic bakery puff filled with mixed vegetables and Indian spices.",
+                        "item_img":"/amazonpagepics/fooditems/vegpuff.webp"
+                    },
+                    {
+                        "item_name":"Egg Puff",
+                        "item_cost": 30,
+                        "item_desc":"Spiced boiled egg wrapped in flaky layers of puff pastry.",
+                        "item_img":"/amazonpagepics/fooditems/eggpuff.jpeg"
+                    },
+                    {
+                        "item_name":"Chicken Puff",
+                        "item_cost": 35,
+                        "item_desc":"Savory puff loaded with spicy shredded chicken filling.",
+                        "item_img":"/amazonpagepics/fooditems/chickenpuff.JPG"
+                    },
+                    {
+                        "item_name":"Veg Roll",
+                        "item_cost": 40,
+                        "item_desc":"Soft roll stuffed with sautéed vegetables and tangy sauces.",
+                        "item_img":"/amazonpagepics/fooditems/vegroll.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Roll",
+                        "item_cost": 45,
+                        "item_desc":"Delicious wrap filled with spicy grilled chicken and onions.",
+                        "item_img":"/amazonpagepics/fooditems/chickenroll.jpg"
+                    },
+                    {
+                        "item_name":"Cheese Sandwich",
+                        "item_cost": 50,
+                        "item_desc":"Crispy pattie filled with sweet corn and potato mash.",
+                        "item_img":"/amazonpagepics/fooditems/cheesesandwich.jpg"
+                    },
+                    {
+                        "item_name":"Corn Pattie",
+                        "item_cost": 45,
+                        "item_desc":"Crispy pattie filled with sweet corn and potato mash.",
+                        "item_img":"/amazonpagepics/fooditems/cornpattie.jpg"
+                    }
+
+                ]
+            },
+           {
+                "catergory":"🥤 Milkshakes",
+                "items":[
+                    {
+                        "item_name":"chocolate MilkShake",
+                        "item_cost": 80,
+                        "item_desc":"Thick, creamy chocolate blended with cold milk.",
+                        "item_img":"/amazonpagepics/fooditems/chocolatemilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Vanilla Milk Shake",
+                        "item_cost": 70,
+                        "item_desc":"Smooth vanilla milkshake topped with ice cream.",
+                        "item_img":"/amazonpagepics/fooditems/vanillamilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Strawberry MilkShake",
+                        "item_cost": 80,
+                        "item_desc":"Sweet pink shake with strawberry syrup and cream.",
+                        "item_img":"/amazonpagepics/fooditems/strawberrymilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Mango MilkShake",
+                        "item_cost": 90,
+                        "item_desc":"Real mango blended into chilled thick shake",
+                        "item_img":"/amazonpagepics/fooditems/mangomilkshake.jpg"
+                    },
+                    {
+                        "item_name":"orea milkshake",
+                        "item_cost": 100,
+                        "item_desc":"Crushed Oreo cookies blended with milk & chocolate.",
+                        "item_img":"/amazonpagepics/fooditems/oreomilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Banana MilkShake",
+                        "item_cost": 70,
+                        "item_desc":"Healthy and smooth banana blend.",
+                        "item_img":"/amazonpagepics/fooditems/bananamilkshake.jpg"
+                    },
+                    {
+                        "item_name":"ButterScotch MilkShake",
+                        "item_cost": 90,
+                        "item_desc":"Caramel and butterscotch blended into milk.",
+                        "item_img":"/amazonpagepics/fooditems/butterscotchmilkshake.webp"
+                    },
+                    {
+                        "item_name":"Dry Fruit Milkshake",
+                        "item_cost": 110,
+                        "item_desc":"Royal shake with almonds, cashews, dates & saffron.",
+                        "item_img":"/amazonpagepics/fooditems/dryfruitmilkshake.jpg"
+                    }
+
+                ]
+            },
+           {
+                "catergory":"Juices",
+                "items":[
+                    {
+                        "item_name":"orange juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rosita-eka-sukmawati-127257819-10047619.jpg"
+                    },
+                    {
+                        "item_name":"mango juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337825.jpg"
+                    },
+                    {
+                        "item_name":"sugar cane juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-alisha-mishra-579430-1346347.jpg"
+                    },
+                    {
+                        "item_name":"dry fruits juice",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-asphotograpy-103566.jpg"
+                    },
+                    {
+                        "item_name":"orea milkshake",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-rdne-6413582.jpg"
+                    },
+                    {
+                        "item_name":"badham paal",
+                        "item_cost": 50,
+                        "item_desc":"Healthy and tasty Dosa made with the combination of Finger Millet,Jowar and Foxtail Millets, topped with grated Onion, served with Chutney",
+                        "item_img":"/amazonpagepics/fooditems/pexels-brunoscramgnon-1337824.jpg"
+                    }
+
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":5,
+        "name":"HotSpot Eatery",
+        "img":"/../amazonpagepics/fooditems/bread.jpeg",
+        "pic":"/amazonpagepics/rating-45.png",
+        "rating":449,
+        "categories":[
+            {
+                "catergory":"🍔 Fast Food Items (Indian + Indo-Chinese)",
+                "items":[
+                    {
+                        "item_name":"Veg Burger",
+                        "item_cost": 60,
+                        "item_desc":"Crispy aloo patty with fresh lettuce and mayo in a soft bun.",
+                        "item_img":"/amazonpagepics/fooditems/vegburger.webp"
+                    },
+                    {
+                        "item_name":"Cheese Burger",
+                        "item_cost": 80,
+                        "item_desc":"Grilled veggie patty topped with melted cheese slice.",
+                        "item_img":"/amazonpagepics/fooditems/cheseburger.webp"
+                    },
+                    {
+                        "item_name":"Chicken Burger",
+                        "item_cost": 100,
+                        "item_desc":"Crispy chicken fillet with spicy mayo and lettuce.",
+                        "item_img":"/amazonpagepics/fooditems/chickenburger.webp"
+                    },
+                    {
+                        "item_name":"French Fries",
+                        "item_cost": 50,
+                        "item_desc":"Golden fried potato sticks, lightly salted.",
+                        "item_img":"/amazonpagepics/fooditems/frenchfires.jpeg"
+                    },
+                    {
+                        "item_name":"Peri Peri Fries",
+                        "item_cost": 60,
+                        "item_desc":"Spicy fries tossed in peri-peri masala.",
+                        "item_img":"/amazonpagepics/fooditems/periperifries.webp"
+                    },
+                    {
+                        "item_name":"Veg Sandwich",
+                        "item_cost": 40,
+                        "item_desc":"Toasted sandwich with cucumber, tomato, and green chutney.",
+                        "item_img":"/amazonpagepics/fooditems/vegsandwich.jpg"
+                    },
+                    {
+                        "item_name":"Grilled Cheese Sandwich",
+                        "item_cost": 70,
+                        "item_desc":"Bread grilled with oozy cheese and spices.",
+                        "item_img":"/amazonpagepics/fooditems/grilledcheesesandwich.jpg"
+                    },{
+                        "item_name":"Egg Biryani",
+                        "item_cost": 140,
+                        "item_desc":"Sliced boiled eggs layered with biryani rice.",
+                        "item_img":"/amazonpagepics/fooditems/eggbiryani.jpg"
+                    },
+                    {
+                        "item_name":"chicken Biryani",
+                        "item_cost": 160,
+                        "item_desc":"Spicy chicken pieces cooked with saffron rice.",
+                        "item_img":"/amazonpagepics/fooditems/chickenbiryani.jpg"
+                    },
+                    {
+                        "item_name":"Paneer Frankie Roll",
+                        "item_cost": 80,
+                        "item_desc":"Spicy paneer stuffing rolled in soft paratha.",
+                        "item_img":"/amazonpagepics/fooditems/pannerfrankieroll.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Shawarma",
+                        "item_cost": 100,
+                        "item_desc":"Lebanese-style chicken wrap with garlic mayo.",
+                        "item_img":"/amazonpagepics/fooditems/chickenswarma.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Nuggets (6pcs)",
+                        "item_cost": 90,
+                        "item_desc":"Tender chicken bites deep-fried till golden.",
+                        "item_img":"/amazonpagepics/fooditems/chickennuggets.jpg"
+                    },
+                    {
+                        "item_name":"Veg Momos(6pcs)",
+                        "item_cost": 60,
+                        "item_desc":"Steamed dumplings filled with mixed veggies",
+                        "item_img":"/amazonpagepics/fooditems/vegmomos.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Momos(6pcs)",
+                        "item_cost": 80,
+                        "item_desc":"Juicy chicken dumplings served with spicy chutney",
+                        "item_img":"/amazonpagepics/fooditems/chickenmomos.webp"
+                    },
+                    {
+                        "item_name":"Gobi Manchurian",
+                        "item_cost": 90,
+                        "item_desc":"Cauliflower tossed in Indo-Chinese spicy sauce.",
+                        "item_img":"/amazonpagepics/fooditems/gobimanchurian.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Manchurian",
+                        "item_cost": 110,
+                        "item_desc":"Boneless chicken cubes in tangy soy garlic sauce.",
+                        "item_img":"/amazonpagepics/fooditems/chickenmanchurain.jpg"
+                    },
+                    {
+                        "item_name":"Veg Noodles",
+                        "item_cost": 80,
+                        "item_desc":"Stir-fried noodles with mixed vegetables and sauces.",
+                        "item_img":"/amazonpagepics/fooditems/vegnoodles.jpeg"
+                    },
+                    {
+                        "item_name":"Egg Noodles",
+                        "item_cost": 90,
+                        "item_desc":"Chinese noodles tossed with scrambled egg.",
+                        "item_img":"/amazonpagepics/fooditems/eggnoodles.jpeg"
+                    },
+                    {
+                        "item_name":"Chicken Noodles",
+                        "item_cost": 100,
+                        "item_desc":"Noodles sautéed with chicken and veggies.",
+                        "item_img":"/amazonpagepics/fooditems/chickennoodles.jpg"
+                    }
+                ]
+            },
+           {
+                "catergory":"🍚 All Types of Biryanis",
+                "items":[
+                    {
+                        "item_name":"Veg Biryani",
+                        "item_cost": 130,
+                        "item_desc":"Basmati rice cooked with mixed vegetables and spices.",
+                        "item_img":"/amazonpagepics/fooditems/vegbiryani.jpg"
+                    },
+                    {
+                        "item_name":"Paneer Biryani",
+                        "item_cost": 150,
+                        "item_desc":"Marinated paneer cubes layered with rice and masala.",
+                        "item_img":"/amazonpagepics/fooditems/pannerbiryani.jpg"
+                    },
+                    {
+                        "item_name":"MushroomBiryani",
+                        "item_cost": 140,
+                        "item_desc":"Flavorful biryani with soft mushrooms and spices.",
+                        "item_img":"/amazonpagepics/fooditems/mushroombiryani.webp"
+                    },
+                    {
+                        "item_name":"Egg Biryani",
+                        "item_cost": 140,
+                        "item_desc":"Sliced boiled eggs layered with biryani rice.",
+                        "item_img":"/amazonpagepics/fooditems/eggbiryani.jpg"
+                    },
+                    {
+                        "item_name":"chicken Biryani",
+                        "item_cost": 160,
+                        "item_desc":"Spicy chicken pieces cooked with saffron rice.",
+                        "item_img":"/amazonpagepics/fooditems/chickenbiryani.jpg"
+                    },
+                    {
+                        "item_name":"Special chicken Biryani",
+                        "item_cost": 180,
+                        "item_desc":"Chicken biryani with double masala and egg topping.",
+                        "item_img":"/amazonpagepics/fooditems/sp chickenbiryani.webp"
+                    },
+                    {
+                        "item_name":"Kaju chicken Biryani",
+                        "item_cost": 190,
+                        "item_desc":"Chicken biryani enriched with roasted cashews.",
+                        "item_img":"/amazonpagepics/fooditems/kaju chickenbiryani.jpeg"
+                    },
+                    {
+                        "item_name":"Gongura chicken biryani",
+                        "item_cost": 190,
+                        "item_desc":"Andhra special biryani with sour gongura chicken.",
+                        "item_img":"/amazonpagepics/fooditems/gongurachickenbiryani.avif"
+                    },
+                    {
+                        "item_name":"Mutton Biryani",
+                        "item_cost": 200,
+                        "item_desc":"Juicy mutton cooked on dum with fragrant rice",
+                        "item_img":"/amazonpagepics/fooditems/muttonbiryani.jpg"
+                    },
+                    {
+                        "item_name":"Prawns Biryani",
+                        "item_cost": 180,
+                        "item_desc":"Coastal-style prawn biryani with mint and spices.",
+                        "item_img":"/amazonpagepics/fooditems/prawnsbiryani.jpg"
+                    },
+                    {
+                        "item_name":"Hyderabadi Biryani",
+                        "item_cost": 180,
+                        "item_desc":"Authentic dum biryani with saffron, mint and onions.",
+                        "item_img":"/amazonpagepics/fooditems/hyderabadibiryani.jpg"
+                    },
+                    {
+                        "item_name":"Family Pack Biryani",
+                        "item_cost": 450,
+                        "item_desc":"Large portion for 4, includes boiled eggs, raita & salan.",
+                        "item_img":"/amazonpagepics/fooditems/familypackbiryani.jpg"
+                    }
+                ]
+            },
+            {
+                "catergory":"Cool Drinks",
+                "items":[
+                    {
+                        "item_name":"Maaza",
+                        "item_cost": 20,
+                        "item_desc":"Refreshing mango-flavored drink served chilled.",
+                        "item_img":"/amazonpagepics/fooditems/mazza.jpg"
+                    },
+                    {
+                        "item_name":"Sprite",
+                        "item_cost": 20,
+                        "item_desc":"Fizzy lemon-lime soda for an instant refresh.",
+                        "item_img":"/amazonpagepics/fooditems/sprite.jpg"
+                    },
+                    {
+                        "item_name":"Frooti",
+                        "item_cost": 20,
+                        "item_desc":"Classic mango drink in a pocket-sized bottle.",
+                        "item_img":"/amazonpagepics/fooditems/frooti.png"
+                    },
+                    {
+                        "item_name":"Coca Cola",
+                        "item_cost": 20,
+                        "item_desc":"The all-time favorite cola drink.",
+                        "item_img":"/amazonpagepics/fooditems/cocacola.webp"
+                    },
+                    {
+                        "item_name":"Thumbs Up",
+                        "item_cost": 20,
+                        "item_desc":"Strong fizzy cola with a bold taste.",
+                        "item_img":"/amazonpagepics/fooditems/thumbsup.png"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":6,
+        "name":"vamsi's Bakery",
+        "img":"/../amazonpagepics/fooditems/cake.jpeg",
+        "pic":"/amazonpagepics/rating-35.png",
+        "rating":649,
+        "categories":[
+            {
+                "catergory":"Cakes",
+                "items":[
+                    {
+                        "item_name":"Black Forest Cake 1kg",
+                        "item_cost": 250,
+                        "item_desc":"Rich chocolate sponge with cream layers and cherries, topped with chocolate shavings.",
+                        "item_img":"/amazonpagepics/fooditems/BlackForestcake.jpeg"
+                    },
+                    {
+                        "item_name":"Red Velvet Cake 1kg",
+                        "item_cost": 350,
+                        "item_desc":"Fluffy red cake with a hint of cocoa, layered with cream cheese frosting.",
+                        "item_img":"/amazonpagepics/fooditems/redvelvetcake.jpeg"
+                    },
+                    {
+                        "item_name":"Chocolate Truffle 2kg",
+                        "item_cost": 450,
+                        "item_desc":"Moist chocolate cake with dense chocolate ganache and glossy finish.",
+                        "item_img":"/amazonpagepics/fooditems/chocolatetrufflecake.webp"
+                    },
+                    {
+                        "item_name":"Pineapple Cake",
+                        "item_cost": 350,
+                        "item_desc":"Soft vanilla sponge with pineapple chunks and whipped cream.",
+                        "item_img":"/amazonpagepics/fooditems/pineapplecake.jpg"
+                    },
+                    {
+                        "item_name":"Strawberry Cake",
+                        "item_cost": 250,
+                        "item_desc":"Fruity pink cake layered with strawberry puree and fresh cream.",
+                        "item_img":"/amazonpagepics/fooditems/strawberrycake.webp"
+                    },
+                    {
+                        "item_name":"Butterscotch Cake",
+                        "item_cost": 270,
+                        "item_desc":"Buttery caramel cake layered with crunchy praline and cream.",
+                        "item_img":"/amazonpagepics/fooditems/ButterScotchcake.jpeg"
+                    },
+                    {
+                        "item_name":"Mango Mousse Cake",
+                        "item_cost": 250,
+                        "item_desc":"Light, airy mango mousse on a soft sponge base.",
+                        "item_img":"/amazonpagepics/fooditems/mangomoussecake.jpeg"
+                    },
+                    {
+                        "item_name":"White Forest Cake",
+                        "item_cost": 540,
+                        "item_desc":"Vanilla sponge with cream layers and white chocolate shavings.",
+                        "item_img":"/amazonpagepics/fooditems/whiteforestcake.webp"
+                    }
+                ]
+            },
+           {
+                "catergory":"Puffs/Rolls/Snacks",
+                "items":[
+                    {
+                        "item_name":"Paneer Puff",
+                        "item_cost": 50,
+                        "item_desc":"Flaky pastry stuffed with spicy paneer masala, baked to golden crisp.",
+                        "item_img":"/amazonpagepics/fooditems/paneerpuff.jpeg"
+                    },
+                    {
+                        "item_name":"Veg Puff",
+                        "item_cost": 20,
+                        "item_desc":"Classic bakery puff filled with mixed vegetables and Indian spices.",
+                        "item_img":"/amazonpagepics/fooditems/vegpuff.webp"
+                    },
+                    {
+                        "item_name":"Egg Puff",
+                        "item_cost": 30,
+                        "item_desc":"Spiced boiled egg wrapped in flaky layers of puff pastry.",
+                        "item_img":"/amazonpagepics/fooditems/eggpuff.jpeg"
+                    },
+                    {
+                        "item_name":"Chicken Puff",
+                        "item_cost": 35,
+                        "item_desc":"Savory puff loaded with spicy shredded chicken filling.",
+                        "item_img":"/amazonpagepics/fooditems/chickenpuff.JPG"
+                    },
+                    {
+                        "item_name":"Veg Roll",
+                        "item_cost": 40,
+                        "item_desc":"Soft roll stuffed with sautéed vegetables and tangy sauces.",
+                        "item_img":"/amazonpagepics/fooditems/vegroll.jpg"
+                    },
+                    {
+                        "item_name":"Chicken Roll",
+                        "item_cost": 45,
+                        "item_desc":"Delicious wrap filled with spicy grilled chicken and onions.",
+                        "item_img":"/amazonpagepics/fooditems/chickenroll.jpg"
+                    },
+                    {
+                        "item_name":"Cheese Sandwich",
+                        "item_cost": 50,
+                        "item_desc":"Crispy pattie filled with sweet corn and potato mash.",
+                        "item_img":"/amazonpagepics/fooditems/cheesesandwich.jpg"
+                    },
+                    {
+                        "item_name":"Corn Pattie",
+                        "item_cost": 45,
+                        "item_desc":"Crispy pattie filled with sweet corn and potato mash.",
+                        "item_img":"/amazonpagepics/fooditems/cornpattie.jpg"
+                    }
+
+                ]
+            },
+            {
+                "catergory":"Cool Drinks",
+                "items":[
+                    {
+                        "item_name":"Maaza",
+                        "item_cost": 20,
+                        "item_desc":"Refreshing mango-flavored drink served chilled.",
+                        "item_img":"/amazonpagepics/fooditems/mazza.jpg"
+                    },
+                    {
+                        "item_name":"Sprite",
+                        "item_cost": 20,
+                        "item_desc":"Fizzy lemon-lime soda for an instant refresh.",
+                        "item_img":"/amazonpagepics/fooditems/sprite.jpg"
+                    },
+                    {
+                        "item_name":"Frooti",
+                        "item_cost": 20,
+                        "item_desc":"Classic mango drink in a pocket-sized bottle.",
+                        "item_img":"/amazonpagepics/fooditems/frooti.png"
+                    },
+                    {
+                        "item_name":"Coca Cola",
+                        "item_cost": 20,
+                        "item_desc":"The all-time favorite cola drink.",
+                        "item_img":"/amazonpagepics/fooditems/cocacola.webp"
+                    },
+                    {
+                        "item_name":"Thumbs Up",
+                        "item_cost": 20,
+                        "item_desc":"Strong fizzy cola with a bold taste.",
+                        "item_img":"/amazonpagepics/fooditems/thumbsup.png"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":7,
+        "name":"Kasi's restaurent",
+        "img":"/../amazonpagepics/fooditems/fastfood.jpeg",
+        "pic":"/amazonpagepics/rating-45.png",
+        "rating":1249,
+        "categories":[
+            {
+                "catergory":"🍛 Meals",
+                "items":[
+                    {
+                        "item_name":"Veg Thali",
+                        "item_cost": 120,
+                        "item_desc":"A wholesome plate with rice, dal, curry, papad, curd, and sweet.",
+                        "item_img":"/amazonpagepics/fooditems/vegthali.webp"
+                    },
+                    {
+                        "item_name":"Non-Veg Thali",
+                        "item_cost": 180,
+                        "item_desc":"Complete Andhra-style meal with chicken curry, fry, rice, sambar, and sweet.",
+                        "item_img":"/amazonpagepics/fooditems/nonvegthali.jpg"
+                    },
+                    {
+                        "item_name":"Mini Meals",
+                        "item_cost": 90,
+                        "item_desc":"A compact meal with rice, pappu, fry, and curd.",
+                        "item_img":"/amazonpagepics/fooditems/minimeals.jpeg"
+                    },
+                    {
+                        "item_name":"Curd Rice",
+                        "item_cost": 60,
+                        "item_desc":"Soft rice mixed with fresh curd, topped with mustard and curry leaves.",
+                        "item_img":"/amazonpagepics/fooditems/curdrice.jpg"
+                    }
+                    ,
+                    {
+                        "item_name":"Tomato Rice",
+                        "item_cost": 70,
+                        "item_desc":"Tangy tomato dal cooked with garlic and green chilies.",
+                        "item_img":"/amazonpagepics/fooditems/tomatorice.jpeg"
+                    }
+                    ,
+                    {
+                        "item_name":"Sambar Rice",
+                        "item_cost": 65,
+                        "item_desc":"Classic sambar mixed with rice, served hot with ghee.",
+                        "item_img":"/amazonpagepics/fooditems/sambarrice.jpeg"
+                    }
+                    ,
+                    {
+                        "item_name":"Pulao",
+                        "item_cost": 85,
+                        "item_desc":"Mildly spiced basmati rice with mixed veggies.",
+                        "item_img":"/amazonpagepics/fooditems/pulao.jpeg"
+                    }
+                    ,
+                    {
+                        "item_name":"Chapathi with Curry",
+                        "item_cost": 75,
+                        "item_desc":"Two soft chapatis served with flavorful veg curry.",
+                        "item_img":"/amazonpagepics/fooditems/chapathiwithcurry.jpeg"
+                    }
+                ]
+            },
+           {
+                "catergory":"🍗 Curries",
+                "items":[
+                    {
+                        "item_name":"Chicken Curry",
+                        "item_cost": 140,
+                        "item_desc":"Traditional Andhra-style chicken in spicy gravy.",
+                        "item_img":"/amazonpagepics/fooditems/chickencurry.jpg"
+                    },
+                    {
+                        "item_name":"Fish Pulusu",
+                        "item_cost": 160,
+                        "item_desc":"Fish cooked in tangy tamarind-based gravy with local spices.",
+                        "item_img":"/amazonpagepics/fooditems/fish.jpeg"
+                    },
+                    {
+                        "item_name":"Mutton Curry",
+                        "item_cost": 180,
+                        "item_desc":"Rich and spicy mutton curry with onion-tomato base.",
+                        "item_img":"/amazonpagepics/fooditems/muttoncurry.jpg"
+                    },
+                    {
+                        "item_name":"Panner Butter Masala",
+                        "item_cost": 130,
+                        "item_desc":"Creamy paneer curry cooked in buttery tomato gravy.",
+                        "item_img":"/amazonpagepics/fooditems/paneerbuttermasala.jpg"
+                    },
+                    {
+                        "item_name":"Kaju Curry",
+                        "item_cost": 140,
+                        "item_desc":"Cashew-based rich and nutty curry.",
+                        "item_img":"/amazonpagepics/fooditems/kaajucurry.jpg"
+                    },
+                    {
+                        "item_name":"Aloo Tomato",
+                        "item_cost": 90,
+                        "item_desc":"Potatoes cooked in a mildly spiced tomato base.",
+                        "item_img":"/amazonpagepics/fooditems/alootomato.jpg"
+                    }
+
+                ]
+            },
+            {
+                "catergory":"🥤 Cool Drinks",
+                "items":[
+                    {
+                        "item_name":"Maaza",
+                        "item_cost": 20,
+                        "item_desc":"Refreshing mango-flavored drink served chilled.",
+                        "item_img":"/amazonpagepics/fooditems/mazza.jpg"
+                    },
+                    {
+                        "item_name":"Sprite",
+                        "item_cost": 20,
+                        "item_desc":"Fizzy lemon-lime soda for an instant refresh.",
+                        "item_img":"/amazonpagepics/fooditems/sprite.jpg"
+                    },
+                    {
+                        "item_name":"Frooti",
+                        "item_cost": 20,
+                        "item_desc":"Classic mango drink in a pocket-sized bottle.",
+                        "item_img":"/amazonpagepics/fooditems/frooti.png"
+                    },
+                    {
+                        "item_name":"Coca Cola",
+                        "item_cost": 20,
+                        "item_desc":"The all-time favorite cola drink.",
+                        "item_img":"/amazonpagepics/fooditems/cocacola.webp"
+                    },
+                    {
+                        "item_name":"Thumbs Up",
+                        "item_cost": 20,
+                        "item_desc":"Strong fizzy cola with a bold taste.",
+                        "item_img":"/amazonpagepics/fooditems/thumbsup.png"
+                    }
+                ]
+            }
+            
+        ]
+    },
+    {
+        "id":8,
+        "name":"Dumont Cremony",
+        "img":"/../amazonpagepics/fooditems/dumoney.jpg",
+        "pic":"/amazonpagepics/rating-40.png",
+        "rating":549,
+        "categories":[
+            {
+                "catergory":"🍨 Ice Creams",
+                "items":[
+                    {
+                        "item_name":"Vanilla Ice Cream",
+                        "item_cost": 40,
+                        "item_desc":"Classic creamy vanilla scoop, smooth and satisfying",
+                        "item_img":"/amazonpagepics/fooditems/vanillaicecream.jpeg"
+                    },
+                    {
+                        "item_name":"Chocolate Ice Cream",
+                        "item_cost": 50,
+                        "item_desc":"Rich and creamy chocolate flavor loved by all.",
+                        "item_img":"/amazonpagepics/fooditems/chocolateicecream.jpg"
+                    },
+                    {
+                        "item_name":"StrawBerry Ice Cream",
+                        "item_cost": 50,
+                        "item_desc":"Sweet and fruity scoop with real strawberry bits.",
+                        "item_img":"/amazonpagepics/fooditems/strawberryicecream.webp"
+                    },
+                    {
+                        "item_name":"Butterscotch Ice Cream",
+                        "item_cost": 50,
+                        "item_desc":"Crunchy caramel bits in buttery ice cream.",
+                        "item_img":"/amazonpagepics/fooditems/butterscotchicecream.jpg"
+                    }
+                    ,
+                    {
+                        "item_name":"Black Currant Ice Cream",
+                        "item_cost": 70,
+                        "item_desc":"Unique tangy flavor with berry essence.",
+                        "item_img":"/amazonpagepics/fooditems/blackcurranticecream.jpg"
+                    },
+                    {
+                        "item_name":"Mango Ice Cream",
+                        "item_cost": 60,
+                        "item_desc":"Summer-favorite with natural mango pulp.",
+                        "item_img":"/amazonpagepics/fooditems/mangoicecream.jpg"
+                    },
+                    {
+                        "item_name":"Kulfi (Malai)",
+                        "item_cost": 50,
+                        "item_desc":"Traditional Indian-style frozen dessert with cardamom.",
+                        "item_img":"/amazonpagepics/fooditems/kulfiicecream.jpg"
+                    },
+                    {
+                        "item_name":"Choco Chips Ice Cream",
+                        "item_cost": 70,
+                        "item_desc":"Vanilla base with crunchy chocolate chips.",
+                        "item_img":"/amazonpagepics/fooditems/chocochipsicecream.jpg"
+                    }
+                ]
+            },
+           {
+                "catergory":"🥤 Milkshakes",
+                "items":[
+                    {
+                        "item_name":"chocolate MilkShake",
+                        "item_cost": 80,
+                        "item_desc":"Thick, creamy chocolate blended with cold milk.",
+                        "item_img":"/amazonpagepics/fooditems/chocolatemilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Vanilla Milk Shake",
+                        "item_cost": 70,
+                        "item_desc":"Smooth vanilla milkshake topped with ice cream.",
+                        "item_img":"/amazonpagepics/fooditems/vanillamilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Strawberry MilkShake",
+                        "item_cost": 80,
+                        "item_desc":"Sweet pink shake with strawberry syrup and cream.",
+                        "item_img":"/amazonpagepics/fooditems/strawberrymilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Mango MilkShake",
+                        "item_cost": 90,
+                        "item_desc":"Real mango blended into chilled thick shake",
+                        "item_img":"/amazonpagepics/fooditems/mangomilkshake.jpg"
+                    },
+                    {
+                        "item_name":"orea milkshake",
+                        "item_cost": 100,
+                        "item_desc":"Crushed Oreo cookies blended with milk & chocolate.",
+                        "item_img":"/amazonpagepics/fooditems/oreomilkshake.jpg"
+                    },
+                    {
+                        "item_name":"Banana MilkShake",
+                        "item_cost": 70,
+                        "item_desc":"Healthy and smooth banana blend.",
+                        "item_img":"/amazonpagepics/fooditems/bananamilkshake.jpg"
+                    },
+                    {
+                        "item_name":"ButterScotch MilkShake",
+                        "item_cost": 90,
+                        "item_desc":"Caramel and butterscotch blended into milk.",
+                        "item_img":"/amazonpagepics/fooditems/butterscotchmilkshake.webp"
+                    },
+                    {
+                        "item_name":"Dry Fruit Milkshake",
+                        "item_cost": 110,
+                        "item_desc":"Royal shake with almonds, cashews, dates & saffron.",
+                        "item_img":"/amazonpagepics/fooditems/dryfruitmilkshake.jpg"
+                    }
+
+                ]
+            }
+            
+        ]
+    }
+
+]
